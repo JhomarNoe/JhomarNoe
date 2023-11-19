@@ -1,0 +1,4 @@
+- 👋 Hello, I'm @JhomarNoe
+- 👀 I am interested in developing video games
+- 🌱I am currently learning C# and Python
+- 📫How to contact me: jhomarnoe17@gmail.com
